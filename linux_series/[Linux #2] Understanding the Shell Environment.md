@@ -1,3 +1,7 @@
+Originally published on Medium: https://medium.com/@aarya-sarfare/linux-2-understanding-the-shell-environment-8366cc22703d
+
+[Linux #2] Understanding the Shell Environment
+
 Disclaimer: This article documents my personal learning journey in cybersecurity. It is for educational purposes only and not professional advice or guidance for real-world systems. Content reflects my current understanding and may evolve as I learn more.
 
 In the following article, I introduce to shell basics, and how to get comfortable with using the shell via learning very basic yet helpful commands. Let’s get started,
