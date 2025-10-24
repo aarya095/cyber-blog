@@ -1,6 +1,6 @@
 Originally published on Medium: https://medium.com/@aarya-sarfare/bash-2-starting-with-bash-commands-c4dd26d77415
 
-[Linux #2] Starting with linux Commands
+[Linux #3] Starting with linux Commands
 
 Disclaimer: This article documents my personal learning journey in cybersecurity. It is for educational purposes only and not professional advice or guidance for real-world systems. Content reflects my current understanding and may evolve as I learn more.
 
