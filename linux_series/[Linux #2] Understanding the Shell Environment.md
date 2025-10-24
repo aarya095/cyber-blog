@@ -26,6 +26,7 @@ Used to give an alias to a command, useful for executing long and repetitive com
 
 alias alias_name='command' 
 unalias alias_name #to remove the alias
+
 <img width="446" height="112" alt="image" src="https://github.com/user-attachments/assets/bb185877-9a8b-4c04-aebd-f3ebdaa117ac" />
 
 To set the alias that’ll remain even after closing the current session, we need to edit the ~./bashsrc file.
