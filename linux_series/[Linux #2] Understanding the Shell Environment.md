@@ -1,4 +1,4 @@
-Originally published on Medium: https://medium.com/@aarya-sarfare/linux-2-understanding-the-shell-environment-8366cc22703d
+Originally published on [Medium](https://medium.com/@aarya-sarfare/linux-2-understanding-the-shell-environment-8366cc22703d)
 
 <h1>[Linux #2] Understanding the Shell Environment</h1>
 
