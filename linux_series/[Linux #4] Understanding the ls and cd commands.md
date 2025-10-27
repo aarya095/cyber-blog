@@ -61,6 +61,8 @@ cd - #Go to the previous directory we were at
 cd ~ #Go to the home directory
 cd / #Go to the root directory
 ```
+
+<h3>Conclusion</h3>
 We have explored ls and cd command, If you have any doubts feel free to ask in the comments. Feedback or corrections are welcome.
 
 Resource: [linuxjourney.com](https://linuxjourney.com/)
