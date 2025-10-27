@@ -63,4 +63,4 @@ This concludes the managing files and directories commands, In the next part Iâ€
 
 Resource: [linuxjourney.com](https://linuxjourney.com/)
 
-Previous: Understanding the ls and cd commands | Next: Viewing and Inspecting Files
+Previous: [Understanding the ls and cd commands](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%234%5D%20Understanding%20the%20ls%20and%20cd%20commands.md) | Next: [Viewing and Inspecting Files](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%236%5D%20Viewing%20and%20Inspecting%20Files.md)
