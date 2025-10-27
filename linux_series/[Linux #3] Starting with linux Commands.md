@@ -6,19 +6,19 @@ Disclaimer: This article documents my personal learning journey in cybersecurity
 
 In the previous part, I wrote about introduction to bash, In the following article I’ll introduce to basic linux commands.
 
-<h2>1. echo:</h2> prints the argument. Example, In the programming, we start learning a new language by typing hello world, here also I’ll do the same:
+<h2>1. echo</h2> prints the argument. Example, In the programming, we start learning a new language by typing hello world, here also I’ll do the same:
 <br>
 <img width="392" height="91" alt="image" src="https://github.com/user-attachments/assets/1bcc37cc-5d62-4e9f-be95-7b598adddbcb" />
 
-<h2>2. date:</h2> Prints the current date and time.
+<h2>2. date</h2> Prints the current date and time.
 <br>
 <img width="355" height="93" alt="image" src="https://github.com/user-attachments/assets/d7ffd4fc-4ca8-47ae-a437-554d10b47168" />
 
-<h2>3. whoami:</h2> Prints who is the current user.
+<h2>3. whoami</h2> Prints who is the current user.
 <br>
 <img width="278" height="90" alt="image" src="https://github.com/user-attachments/assets/ad38479b-859f-4b8f-9b2a-efdb8c46d95e" />
 
-<h2>4. pwd:</h2> Prints the current directory we are in the shell.
+<h2>4. pwd</h2> Prints the current directory we are in the shell.
 <br>
 <img width="241" height="81" alt="image" src="https://github.com/user-attachments/assets/a74a527a-4e73-4094-9a4e-5f51b9889162" />
 
