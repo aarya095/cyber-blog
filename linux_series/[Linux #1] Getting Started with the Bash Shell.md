@@ -5,9 +5,9 @@ Originally published on Medium: https://medium.com/@aarya-sarfare/getting-starte
 Disclaimer: This article documents my personal learning journey in cybersecurity. It is for educational purposes only and not professional advice or guidance for real-world systems. Content reflects my current understanding and may evolve as I learn more.
 
 <h2>Why learn bash?</h2> 
-<p>Learning to use a shell is essential in cybersecurity, as many applications are used, installed, managed via a terminal. Bash (Bourne Again Shell) is basically the place where we execute commands, bash is one of the shells along side zsh and other shells. Firstly, hit ctrl+alt+t to launch the terminal, or use the app launcher to open the terminal.</p>
+<p>Learning to use a shell is essential in cybersecurity, as many applications are used, installed, managed via a terminal. Bash (Bourne Again Shell) is basically the place where we execute commands, bash is one of the shells along side zsh and other shells. Firstly, hit ctrl+alt+t to launch the terminal, or use the app launcher to open the terminal.
 
-In the below image, it shows the necessary information we need to know before executing a command:
+In the below image, it shows the necessary information we need to know before executing a command: </p>
 <br>
 <img width="217" height="52" alt="image" src="https://github.com/user-attachments/assets/6d29cf38-49c0-4891-b078-43b5f5d61a38" />
 
