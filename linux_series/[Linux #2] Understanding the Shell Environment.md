@@ -38,6 +38,7 @@ To set the alias that’ll remain even after closing the current session, we nee
 
 To close the GUI terminal or log out of a shell.
 
+<h3>Conclusion</h3>
 I’ll here conclude understanding the shell environment, I have explained about helpful bash commands. Next part I’ll start with another set of generic linux commands.
 
 Resource: [linuxjourney.com](https://linuxjourney.com/)
