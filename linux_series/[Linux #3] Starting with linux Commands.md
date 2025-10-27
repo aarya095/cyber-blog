@@ -26,4 +26,6 @@ I’ll conclude this article with the note that the above commands are general p
 
 If you have any doubts feel free to ask in the comments. Feedback or corrections are welcome.
 
+Resource: [linuxjourney.com](https://linuxjourney.com/)
+
 Previous: [Getting Started with the Bash Shell](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%232%5D%20Understanding%20the%20Shell%20Environment.md) | Next: [Understanding the ls and cd commands](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%234%5D%20Understanding%20the%20ls%20and%20cd%20commands.md)
