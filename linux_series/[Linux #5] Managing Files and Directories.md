@@ -59,6 +59,8 @@ The command can be used in two ways one to move files from one place to another 
 For moving the files, we have the same syntax as the cp command. And for renaming the files, the syntax is as follows:
 
 `mv old_name.txt new_name.txt #pretty simple and straightforward!`  
+
+<h3>Conclusion</h3>
 This concludes the managing files and directories commands, In the next part I’ll focus on Viewing and Inspecting Files.
 
 Resource: [linuxjourney.com](https://linuxjourney.com/)
