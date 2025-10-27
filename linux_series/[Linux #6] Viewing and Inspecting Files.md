@@ -31,6 +31,7 @@ Following are a set of instructions which help use to ‘less’ command better:
   Press ‘g’ to go to the beginning of the file  
   Press ‘G’ to go to the end of the file
 
+<h3>Conclusion</h3>
 This concludes the viewing and inspecting files, In the next part I’ll focus on Searching and Tracking Command History.
 
 Resource: [linuxjourney.com](https://linuxjourney.com/)
