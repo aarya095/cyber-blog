@@ -26,10 +26,10 @@ Another great feature ‘less’ provides is the option to search for a text in 
 
 Following are a set of instructions which help use to ‘less’ command better:
 <ul>
-Press ‘q’ to go back to the shell
-Use arrow keys to move around
-Press ‘g’ to go to the beginning of the file
-Press ‘G’ to go to the end of the file
+  Press ‘q’ to go back to the shell  
+  Use arrow keys to move around  
+  Press ‘g’ to go to the beginning of the file  
+  Press ‘G’ to go to the end of the file
 </ul>
 This concludes the viewing and inspecting files, In the next part I’ll focus on Searching and Tracking Command History.
 
