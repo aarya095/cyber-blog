@@ -63,4 +63,4 @@ cd / #Go to the root directory
 ```
 We have explored ls and cd command, If you have any doubts feel free to ask in the comments. Feedback or corrections are welcome.
 
-Previous:[Starting with Linux Commands](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%233%5D%20Starting%20with%20linux%20Commands.md) | Next: [Managing Files and Directories](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%235%5D%20Managing%20Files%20and%20Directories.md)
+Previous: [Starting with Linux Commands](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%233%5D%20Starting%20with%20linux%20Commands.md) | Next: [Managing Files and Directories](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%235%5D%20Managing%20Files%20and%20Directories.md)
