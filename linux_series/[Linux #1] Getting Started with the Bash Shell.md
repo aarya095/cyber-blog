@@ -19,6 +19,7 @@ The format of a command in bash is as follows: command [options] [arguments]. Fo
 
 <p>`ls -l /home`</p>
 
+<h3>Conclusion</h3>
 I’ll conclude my article here, on the note that linux and shell scripting is a vast subject and I am looking forward to learn and explore linux and scripting, by starting with bash, and excited to keep sharing my learning progress!
 
 If you have any doubts feel free to ask in the comments. Feedback or corrections are welcome.
