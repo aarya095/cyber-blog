@@ -9,26 +9,26 @@ In the following article, I introduce to shell basics, and how to get comfortabl
 <h2>1. help</h2>
 Whenever I get stuck a command or exploring a new command, I do what any person would do i.e. ask for help. Help provides the necessary information to learned about the options and arguments possible with the command. Help is used to fast annd quick access to the information.
 
-mv --help #syntax
+`mv --help #syntax`
 
 <h2>2. man (manual)</h2>
 
 man command basically provides the entire manual to the command and provides all the information about the command. Unlike, man is used to get all the information about the command.
 
-man ls
+`man ls`
 
 <h2>3. whatis</h2>
 
 whatis command tells in a one liner about a command, great for remembering what does the command do.
 
-whatis ls
+`whatis ls`
 
 <h2>4. alias</h2>
 
 Used to give an alias to a command, useful for executing long and repetitive commands. To set an alias,
 
-alias alias_name='command' 
-unalias alias_name #to remove the alias
+`alias alias_name='command'`
+`unalias alias_name #to remove the alias`
 <br>
 <img width="446" height="112" alt="image" src="https://github.com/user-attachments/assets/bb185877-9a8b-4c04-aebd-f3ebdaa117ac" />
 
