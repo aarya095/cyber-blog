@@ -30,6 +30,7 @@ If we simply type history, it’ll print a long list of commands, of course we d
 <br>
 Further, if can also access the previous commands we have used via pressing the up arrow key and to return to the latest we can press the down arrow key.
 
+<h3>Conclusion</h3>
 This concludes the Searching and Tracking Command History, In the next part I’ll focus on Mastering Linux I/O Streams: stdin, stdout, and stderr.
 
 Resource: [linuxjourney.com](https://linuxjourney.com/)
