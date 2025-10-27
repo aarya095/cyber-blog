@@ -16,7 +16,8 @@ Here, username is the name of the user currently using the shell (in this case i
 
 The format of a command in bash is as follows: command [options] [arguments]. For e.g.
 
-ls -l /home
+<p>ls -l /home</p>
+
 I’ll conclude my article here, on the note that linux and shell scripting is a vast subject and I am looking forward to learn and explore linux and scripting, by starting with bash, and excited to keep sharing my learning progress!
 
 If you have any doubts feel free to ask in the comments. Feedback or corrections are welcome.
