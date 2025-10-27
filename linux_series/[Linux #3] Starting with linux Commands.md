@@ -24,6 +24,7 @@ In the previous part, I wrote about introduction to bash, In the following artic
 
 I’ll conclude this article with the note that the above commands are general purpose commands, I’ll explore more linux commands in the upcoming parts.
 
+<h3>Conclusion</h3>
 If you have any doubts feel free to ask in the comments. Feedback or corrections are welcome.
 
 Resource: [linuxjourney.com](https://linuxjourney.com/)
