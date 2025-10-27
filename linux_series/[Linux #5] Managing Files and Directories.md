@@ -37,6 +37,7 @@ Used to make directories or multiple directories at once. Similar to touch, mkdi
 Used to copy a file or a set of files or an entire directory from one place to another.
 <br>
 <img width="610" height="296" alt="image" src="https://github.com/user-attachments/assets/057147d1-2a69-49de-a868-a2ccaaa8acb3" />
+<br>
 Oops messed up the syntax a bit!
 Another useful concept to use here is of wild cards, as using the wild card * we can easily copy a certain type to files to another location without bothering with other files.
 
