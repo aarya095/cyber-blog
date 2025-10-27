@@ -1,4 +1,4 @@
-Originally published on Medium: https://medium.com/@aarya-sarfare/getting-started-with-the-bash-shell-4a983d6d04a8
+Originally published on [Medium](https://medium.com/@aarya-sarfare/getting-started-with-the-bash-shell-4a983d6d04a8)
 
 <h1>[Linux #1] Getting Started with the Bash Shell</h1>
 
