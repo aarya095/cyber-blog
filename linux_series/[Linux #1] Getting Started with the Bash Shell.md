@@ -23,4 +23,6 @@ I’ll conclude my article here, on the note that linux and shell scripting is a
 
 If you have any doubts feel free to ask in the comments. Feedback or corrections are welcome.
 
+Resource: [linuxjourney.com](https://linuxjourney.com/)
+
 Next: [Starting with Linux Commands](https://github.com/aarya095/cyber-blog/blob/main/linux_series/%5BLinux%20%232%5D%20Understanding%20the%20Shell%20Environment.md)
