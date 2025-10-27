@@ -11,6 +11,7 @@ Bash (Bourne Again Shell) is basically the place where we execute commands, bash
 Firstly, hit ctrl+alt+t to launch the terminal, or use the app launcher to open the terminal.
 
 In the below image, it shows the necessary information we need to know before executing a command:
+<br>
 <img width="217" height="52" alt="image" src="https://github.com/user-attachments/assets/6d29cf38-49c0-4891-b078-43b5f5d61a38" />
 
 The format of the above is as follows: username@hostname:current_directory$
