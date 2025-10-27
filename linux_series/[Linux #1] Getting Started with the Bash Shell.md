@@ -1,6 +1,6 @@
 Originally published on Medium: https://medium.com/@aarya-sarfare/getting-started-with-the-bash-shell-4a983d6d04a8
 
-[Linux #1] Getting Started with the Bash Shell
+<h1>[Linux #1] Getting Started with the Bash Shell</h1>
 
 Disclaimer: This article documents my personal learning journey in cybersecurity. It is for educational purposes only and not professional advice or guidance for real-world systems. Content reflects my current understanding and may evolve as I learn more.
 
