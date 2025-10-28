@@ -1,5 +1,5 @@
 <h1>🛡️ Cyber Blog</h1>
-Documenting my journey and insights in **Cybersecurity** — from foundational concepts to practical labs and tool analysis.
+Documenting my journey and insights in <b>Cybersecurity</b> — from foundational concepts to practical labs and tool analysis.
 
 <h2>🔍 Overview</h2>
 This repository serves as a personal cybersecurity knowledge base.  
