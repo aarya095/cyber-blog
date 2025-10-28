@@ -19,10 +19,10 @@ All content reflects my current understanding for educational purposes only.
 No credentials, flags, or confidential information are shared.
 
 <h2>🔗 Blog Links</h2>
-<ul>
-- Medium: https://medium.com/@aarya-sarfare
-- Portfolio: https://aarya095.github.io/aarya.github.io/
-</ul>
+
+<li>- Medium: https://medium.com/@aarya-sarfare</li>
+<li>- Portfolio: https://aarya095.github.io/aarya.github.io/</li>
+
 
 <h2>🧠 Author</h2>
 Aarya — IT Engineering student exploring cybersecurity.
