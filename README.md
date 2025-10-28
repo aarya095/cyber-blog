@@ -5,6 +5,11 @@ Documenting my journey and insights in **Cybersecurity** — from foundational c
 This repository serves as a personal cybersecurity knowledge base.  
 Each post explores tools, attack techniques, and defenses through research notes and applied practice.  
 
+<h2>📚 Topics Covered</h2>
+<ul>
+  Linux Fundamentails
+</ul>
+
 <h2>🧭 Purpose</h2>
 This repository documents my personal learning journey.  
 It aims to reinforce understanding and share knowledge responsibly.  
