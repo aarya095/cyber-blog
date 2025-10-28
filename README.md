@@ -6,9 +6,8 @@ This repository serves as a personal cybersecurity knowledge base.
 Each post explores tools, attack techniques, and defenses through research notes and applied practice.  
 
 <h2>📚 Topics Covered</h2>
-<ul>
-  Linux Fundamentails
-</ul>
+
+<li>Linux Fundamentails</li>
 
 <h2>🧭 Purpose</h2>
 This repository documents my personal learning journey.  
@@ -20,8 +19,8 @@ No credentials, flags, or confidential information are shared.
 
 <h2>🔗 Blog Links</h2>
 
-<li>- Medium: https://medium.com/@aarya-sarfare</li>
-<li>- Portfolio: https://aarya095.github.io/aarya.github.io/</li>
+<li>Medium: https://medium.com/@aarya-sarfare</li>
+<li>Portfolio: https://aarya095.github.io/aarya.github.io/</li>
 
 
 <h2>🧠 Author</h2>
