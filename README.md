@@ -7,7 +7,7 @@ Each post explores tools, attack techniques, and defenses through research notes
 
 <h2>📚 Topics Covered</h2>
 
-<li>Linux Fundamentails</li>
+<li>Linux Fundamentals</li>
 
 <h2>🧭 Purpose</h2>
 This repository documents my personal learning journey.  
